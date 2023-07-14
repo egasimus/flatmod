@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "opt-mod"
+name = "flatmod"
 version = "0.1.0"
